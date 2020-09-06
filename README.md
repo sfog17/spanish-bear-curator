@@ -1,5 +1,9 @@
 # spanish-bear-curator
+
 The first bear curator, specialised in Spanish art
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/sfog17/spanish-bear-curator/master?urlpath=voila%2Frender%2Fspanish_bear_curator.ipynb)
+
 
 ## How to install 
 
